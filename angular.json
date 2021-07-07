@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HiBuddy"
+    }
+  },
+  "defaultProject": "HiBuddy",
+  "cli": {
+    "analytics": false
+  }
 }
